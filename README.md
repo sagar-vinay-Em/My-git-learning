@@ -1,4 +1,4 @@
-# HEllO guys welcome to git repositry
+# Hello guys welcome to git repositry
 
 Hey i am studying in IIIT Nagpur
 Hey this is vinay.
